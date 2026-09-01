@@ -1,1 +1,6 @@
-
+print("Senior Project Developer Profile")
+print()
+print("Name: Taylor Vander")
+print("Major: Computer Science")
+print("Technology Interest: Machine Learning for Social Good")
+print("Skill Goal: Strengthen my technical collaboration skills by using GitHub effectively for branching, version control, pull requests, and team-based development.")
